@@ -17,7 +17,7 @@ The bird generally falls down due to gravity, we have to use 'space' or 'mouse' 
 
 * The Home screen contains just contains a stationary bird. we have to press either 'space' or use 'mouse' to start the game.
 
-![](/img/fb_basic.png)
+![](/Downloads/123.png)
 
 
 * we have to move through the pipes in this game like shown in the below screenshot.
